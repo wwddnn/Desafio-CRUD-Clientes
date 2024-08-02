@@ -6,6 +6,7 @@ O projeto consiste em criar um CRUD em uma APIREST com Java Springboot utilizand
 - Criar 'DTO - Data Transfer Object' para transformar objetos em objetos DTO.
 - Usar JPA - Java Persistence API para criar no banco de dados em memória H2 as entidades.
 - Criar a classe ControllerExceptionHandler com a anotação 'ControlerAdvice' para lançar exceções de forma padronizada sem precisar usar try catch dentro do código.
+- Usar Bean Validation para validação de dados.
 
 ## 🛠️ Construído com as tecnologias
 Java / IntelliJ IDEA / Spring / Spring boot / Spring web / Sppring database H2 / Maven / JPA
